@@ -1,4 +1,4 @@
-# AI Resource Kit
+# Bombay AI Labs | Resource Kit
 
 ## Industry Perspectives
 

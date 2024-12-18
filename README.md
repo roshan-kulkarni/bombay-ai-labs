@@ -3,6 +3,7 @@
 ## Industry Perspectives
 
 **Moving Generative AI to Production | MIT Technology Review** [20 Mins]
+
 https://www.technologyreview.com/2024/12/02/1106689/moving-generative-ai-into-production
 
 A quick read with good insights into the current state of the Gen AI applications landscape today. It highlights some real challenges in delivering enterprise AI solutions to production environments, such as: (1) Ensuring the quality of output from AI (2) Cost of model inferencing (3) Cost of model training (4) Performance latency of large models. It also provides a nice primer into how Compound AI systems such as LangChain work and the allied tools - such as semantic search, semantic cache, data connectors - that are necessary to build an end-to-end AI solution.

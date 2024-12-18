@@ -54,4 +54,4 @@ https://www.youtube.com/playlist?list=PLwF3A0R8OzMoMlE1-SaEh8h9VqUlO-r52
 
 # About Bombay AI Labs
 
-A community of AI experts, enthusiasts, practitioners, incubated in the island city of Mumbai, India. The resource kit is created and maintained by the community convenor (Roshan Kulkarni).
+We are a community of AI experts, enthusiasts, practitioners, incubated in the island city of Mumbai, India. This resource kit is created and maintained by the community convenor (Roshan Kulkarni).
